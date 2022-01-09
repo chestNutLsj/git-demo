@@ -4,3 +4,6 @@ Hello, world!
 hello, git!
 hello, world!
 version 0.2
+
+hello git! hello world!
+version hot-fix
