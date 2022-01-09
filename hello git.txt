@@ -7,3 +7,5 @@ version 0.2
 
 hello git! hello world!
 version hot-fix
+
+hot-fix modify test
