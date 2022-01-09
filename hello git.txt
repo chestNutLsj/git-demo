@@ -8,4 +8,4 @@ version 0.2
 hello git! hello world!
 version hot-fix
 
-master modify test
+Both master and hot-fix modify test
