@@ -9,3 +9,5 @@ hello git! hello world!
 version hot-fix
 
 Both master and hot-fix modify test
+
+Modified in GitHub.
